@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lecture52 - OOP Exercise/ViewController.swift"
+            timestampString = "475702171.27237"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lecture52___OOP_Exercise.ViewController.gameInstance.setter : Swift.ImplicitlyUnwrappedOptional&lt;Lecture52___OOP_Exercise.Game&gt;"
+                  moduleName = "Lecture52 - OOP Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jess/Library/Mobile%20Documents/com~apple~CloudDocs/Development/Studying/uDemy%20(Devslopes)/Lecture52%20-%20OOP%20Exercise/Lecture52%20-%20OOP%20Exercise/ViewController.swift"
+                  timestampString = "475109763.951572"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lecture52___OOP_Exercise.ViewController.gameInstance.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;Lecture52___OOP_Exercise.Game&gt;"
+                  moduleName = "Lecture52 - OOP Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jess/Library/Mobile%20Documents/com~apple~CloudDocs/Development/Studying/uDemy%20(Devslopes)/Lecture52%20-%20OOP%20Exercise/Lecture52%20-%20OOP%20Exercise/ViewController.swift"
+                  timestampString = "475109763.951792"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lecture52___OOP_Exercise.ViewController.init (Lecture52___OOP_Exercise.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Lecture52___OOP_Exercise.ViewController"
+                  moduleName = "Lecture52 - OOP Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jess/Library/Mobile%20Documents/com~apple~CloudDocs/Development/Studying/uDemy%20(Devslopes)/Lecture52%20-%20OOP%20Exercise/Lecture52%20-%20OOP%20Exercise/ViewController.swift"
+                  timestampString = "475109763.952"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "717">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lecture52___OOP_Exercise.ViewController.init (Lecture52___OOP_Exercise.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Lecture52___OOP_Exercise.ViewController&gt;"
+                  moduleName = "Lecture52 - OOP Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jess/Library/Mobile%20Documents/com~apple~CloudDocs/Development/Studying/uDemy%20(Devslopes)/Lecture52%20-%20OOP%20Exercise/Lecture52%20-%20OOP%20Exercise/ViewController.swift"
+                  timestampString = "475109763.952199"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "631">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lecture52 - OOP Exercise/Game.swift"
+            timestampString = "475703994.431138"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "Game"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lecture52 - OOP Exercise/Game.swift"
+            timestampString = "475697553.59411"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init(vc:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lecture52 - OOP Exercise/Game.swift"
+            timestampString = "475704097.865585"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "declareAudio()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lecture52 - OOP Exercise/Game.swift"
+            timestampString = "475703994.431138"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "setUpGame()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
